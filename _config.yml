@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Louis Couston"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Louis Couston"
 description              : &description "personal description"
 url                      : https://louiscouston.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Louis-Alexandre Couston"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Marie Curie Postdoctoral Fellow"
+  location         : "Cambridge, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
