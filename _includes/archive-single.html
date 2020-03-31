@@ -56,8 +56,10 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.arxivurl %}
+      <p><Publisher <a href=" {{ post.paperurl }} "><u>version</u></a>><arXiv <a href=" {{ post.arxivurl }} "><u>version</u></a>></p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p><Publisher <a href=" {{ post.paperurl }} "><u>version</u></a>></p>
     {% endif %}
 
   </article>
