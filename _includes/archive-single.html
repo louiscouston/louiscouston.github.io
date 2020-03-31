@@ -57,9 +57,9 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.arxivurl %}
-      <p><Publisher <a href=" {{ post.paperurl }} "><u>version</u></a>><arXiv <a href=" {{ post.arxivurl }} "><u>version</u></a>></p>
+      <p><Publisher <a href=" {{ post.paperurl }} ">version</a>><arXiv <a href=" {{ post.arxivurl }} ">version</a>></p>
     {% elsif post.paperurl %}
-      <p><Publisher <a href=" {{ post.paperurl }} "><u>version</u></a>></p>
+      <p><Publisher <a href=" {{ post.paperurl }} ">version</a>></p>
     {% endif %}
 
   </article>
