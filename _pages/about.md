@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,13 +18,13 @@ Brief CV
 
 Research interests
 ------
-Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
+* Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
 
-Hydrodynamics (instability, wave scattering, wave-wave resonance)
+* Hydrodynamics (instability, wave scattering, wave-wave resonance)
 
-Geophysics (ocean dynamics, atmospheric dynamics, subglacial lakes, icy moons)
+* Geophysics (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons, glaciology)
 
-Mathematics (high-performance computing, perturbation analysis, spectral analysis, immersed boundary methods, phase field methods)
+* Mathematics (high-performance computing, perturbation analysis, spectral analysis, immersed boundary methods, phase field methods)
 
 Research projects
 ------
