@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
 `MIMOP` 
 {: .notice} 
 
