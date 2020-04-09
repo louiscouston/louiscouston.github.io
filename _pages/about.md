@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my .
-
 Brief CV
 ------
 *2011-2016*, [TAFlab](https://taflab.berkeley.edu/), UC Berkeley, California, USA, Graduate student researcher
