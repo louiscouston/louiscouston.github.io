@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-`MIMOP`
+`<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>`
 
 Brief CV
 ------
