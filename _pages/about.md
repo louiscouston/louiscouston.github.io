@@ -24,7 +24,9 @@ Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, st
 
 Hydrodynamics (instability, wave scattering, wave-wave resonance)
 
-Geophysics (subglacial lakes)
+Geophysics (ocean dynamics, atmospheric dynamics, subglacial lakes, icy moons)
+
+Mathematics (high-performance computing, perturbation analysis, spectral analysis, immersed boundary methods, phase field methods)
 
 Research projects
 ------
