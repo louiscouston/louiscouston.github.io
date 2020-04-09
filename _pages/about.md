@@ -11,7 +11,7 @@ redirect_from:
 **Modelling Ice-shelf Melting and ice-Ocean Processes** `MIMOP` 
 {: .notice} 
 
-# Subglacial Lake Dynamics `SLD` 
+**Subglacial Lake Dynamics** `SLD` 
 {: .notice} 
 
 Brief CV
