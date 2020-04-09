@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "L-A Couston"
+  name             : "Louis Couston"
   avatar           : "profile_pic.jpg"
-  bio              : "Marie Curie Postdoctoral Fellow"
+  bio              : 
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
