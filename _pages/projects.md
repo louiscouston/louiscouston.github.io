@@ -14,11 +14,11 @@ PI: L-A Couston
 
 Collaborators: Eric Hester (USyd), Benjamin Favier (IRPHE), John Taylor (DAMTP), Adrian Jenkins (Northumbria), Paul Holland (BAS)
 
-**Overarching Question:** Are hydrodynamic conditions conducive to life in Antarctic subglacial lakes?
+**Overarching Question:** How quickly do ice blocks melt in lakes and oceans?
 
 **Goals:**
-1. Stability of subglacial lakes against geothermal heating
-1. Intensity of fluid motions in subglacial lakes unstable to geothermal heating
+1. Spontaneous generation of roughness and topography at the water/ice interface
+1. Influence of boundary roughness and topography on ice melting in lakes and oceans
 
 ## Subglacial Lake Dynamics
 *2019-* 
@@ -32,4 +32,3 @@ Collaborators: Martin Siegert (Imperial College)
 **Goals:**
 1. Stability of subglacial lakes against geothermal heating
 1. Intensity of fluid motions in subglacial lakes unstable to geothermal heating
-1. 
