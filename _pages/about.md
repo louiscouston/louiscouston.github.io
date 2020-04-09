@@ -1,25 +1,21 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 This is the front page of my [research website](https://github.com/louiscouston/louiscouston.github.io).
 
-My research
+Brief CV
 ======
-I work in the field of *GFD research*.
+2011-2016, UC Berkeley, California, USA, *Graduate student researcher* 
+2016-2018, IRPHE, CNRS, Marseille, France, *Postdoctoral research assistant*
+2018-2020, British Antarctic Survey, Cambridge, UK, *Marie Curie postdoctoral fellow*
+
+Research projects
+======
 1. wave wave interations
 1. melting
 
-We are recruiting !
+Research interests
 ------
-Some day...
 
+Gallery
+------
 
-![Editing a markdown file for a talk](/images/graphical_abstract.jpg)
+![Graphical abstract of our last paper](/images/graphical_abstract.jpg)
 
