@@ -22,6 +22,8 @@ Brief CV
 
 *2011-2016*, [TAFlab](https://taflab.berkeley.edu/), UC Berkeley, California, USA, Graduate student researcher
 
+*2008-2011*, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
+
 Research interests
 ------
 * Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
