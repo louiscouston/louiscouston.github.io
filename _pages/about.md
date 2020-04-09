@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Modelling Ice-shelf Melting and ice-Ocean Processes `MIMOP` 
+Modelling Ice-shelf Melting and ice-Ocean Processes **`MIMOP`** 
 {: .notice} 
 
 ## Subglacial Lake Dynamics `SLD` 
