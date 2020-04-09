@@ -24,15 +24,20 @@ Brief CV
 
 *2008-2011*, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
 
-Research interests
+Research Interests
 ------
 * Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
 
 * Hydrodynamics (instability, wave scattering, wave-wave resonance)
 
-* Geophysics (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons, glaciology)
+* Geophysics (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons)
 
-* Mathematics (high-performance computing, perturbation analysis, spectral analysis, immersed boundary methods, phase field methods)
+Solution Methods
+------
+
+* Applied mathematics (model reduction, asymptotic and perturbation analysis, spectral analysis)
+
+* Computer simulations (direct numerical simulations, high-performance computing, immersed boundary methods, phase field methods)
 
 Gallery
 ------
