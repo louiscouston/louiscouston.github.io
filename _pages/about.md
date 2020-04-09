@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 This is the front page of my [research website](https://github.com/louiscouston/louiscouston.github.io).
 
 Brief CV
