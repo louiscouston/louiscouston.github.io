@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my [research website](https://github.com/louiscouston/louiscouston.github.io).
+This is the front page of my .
 
 Brief CV
 ------
-*2011-2016*, UC Berkeley, California, USA, Graduate student researcher
+*2011-2016*, [TAFlab](https://taflab.berkeley.edu/), UC Berkeley, California, USA, Graduate student researcher
 
-*2016-2018*, IRPHE, CNRS, Marseille, France, Postdoctoral research assistant
+*2016-2018*, [IRPHE](https://irphe.univ-amu.fr/en), CNRS, Marseille, France, Postdoctoral research assistant
 
-*2018-2020*, British Antarctic Survey, Cambridge, UK, Marie Curie postdoctoral fellow
+*2018-2020*, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
+
+Research interests
+------
+Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
+
+Hydrodynamics (instability, wave scattering, wave-wave resonance)
+
+Geophysics (subglacial lakes)
 
 Research projects
 ------
 1. wave wave interations
 1. melting
-
-Research interests
-------
 
 Gallery
 ------
