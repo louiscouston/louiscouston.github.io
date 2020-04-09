@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-`MIMOP` {: .notice} 
+`MIMOP` 
+{: .notice} 
 
-Subglacial lake dynamics {: .notice} 
+Subglacial lake dynamics 
+{: .notice} 
 
 Brief CV
 ------
