@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-`MIMOP` 
+Modelling Ice-shelf Melting and ice-Ocean Processes `MIMOP` 
 {: .notice} 
 
-Subglacial lake dynamics 
+Subglacial Lake Dynamics `SLD` 
 {: .notice} 
 
 Brief CV
