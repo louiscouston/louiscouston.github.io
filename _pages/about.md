@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Projects"
+title: "Current Research Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
