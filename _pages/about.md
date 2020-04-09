@@ -20,6 +20,6 @@ We are recruiting !
 ------
 Some day...
 
-You can insert an image!:
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+![Editing a markdown file for a talk](/images/graphical_abstract.jpg)
 
