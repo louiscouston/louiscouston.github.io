@@ -10,8 +10,11 @@ PI: L-A Couston
 
 Collaborators: Martin Siegert (Imperial College)
 
-**Overarching question:** Do subglacial aquatic environments support microorganisms ?
+**Overarching question:** How well do microorganisms thrive in subglacial water systems ?
 
-**Ongoing investigations:**
+## Ongoing investigations
+---
+**Hydrodynamics of subglacial lakes**
+
 1. Which Antarctic subglacial lakes (ASL) are at rest ? Which ASL are dynamic ? 
 1. How intense are fluid motions in dynamic ASL ?
