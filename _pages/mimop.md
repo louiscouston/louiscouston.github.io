@@ -8,11 +8,11 @@ Status: Active (2018-)
 
 PI: L-A Couston
 
-**Overarching question:** How quickly does ice melt in lakes and oceans?
+**Overarching question:** How quickly does ice melt in lakes and oceans ?
 
 ## Ongoing investigations
-**Topography of the ice-water interface**
-1. What kind of roughness or topography does the ice/water interface feature?
-1. How does this roughness of topography influence ice melting rates in water?
+**Topography of the ice/water interface**
+1. Is the ice/water interface naturally smooth or rough ?
+1. How does the ice/water interface topography influence ice melt rates in water ?
 
 Collaborators: Eric Hester (USyd), Benjamin Favier (IRPHE), John Taylor (DAMTP), Adrian Jenkins (Northumbria), Paul Holland (BAS)
