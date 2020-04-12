@@ -8,10 +8,11 @@ Status: Active (2018-)
 
 PI: L-A Couston
 
-Collaborators: Eric Hester (USyd), Benjamin Favier (IRPHE), John Taylor (DAMTP), Adrian Jenkins (Northumbria), Paul Holland (BAS)
-
 **Overarching question:** How quickly does ice melt in lakes and oceans?
 
-**Technical goals:**
-1. Spontaneous generation of roughness and topography at the water/ice interface
-1. Influence of boundary roughness and topography on ice melting in lakes and oceans
+## Ongoing investigations
+**Topography of the ice-water interface**
+1. What kind of roughness or topography does the ice/water interface feature?
+1. How does this roughness of topography influence ice melting rates in water?
+
+Collaborators: Eric Hester (USyd), Benjamin Favier (IRPHE), John Taylor (DAMTP), Adrian Jenkins (Northumbria), Paul Holland (BAS)
