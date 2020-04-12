@@ -13,7 +13,6 @@ Collaborators: Martin Siegert (Imperial College)
 **Overarching question:** How well do microorganisms thrive in subglacial water systems ?
 
 ## Ongoing investigations
----
 **Hydrodynamics of subglacial lakes**
 
 1. Which Antarctic subglacial lakes (ASL) are at rest ? Which ASL are dynamic ? 
