@@ -26,7 +26,7 @@ Brief CV
 
 Research Interests
 ------
-* Geophysical fluid dynamics (turbulence, waves, large-scale flows, convection, stratification, rotation)
+* Geophysical fluid dynamics (turbulence, waves, large-scale flows, stratification, rotation)
 
 * Hydrodynamics (instability, wave scattering, wave-wave resonance)
 
