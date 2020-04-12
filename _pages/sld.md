@@ -1,6 +1,6 @@
 ---
 title: "Subglacial Lake Dynamics"
-permalink: /mimop/
+permalink: /sld/
 author_profile: true
 ---
 
