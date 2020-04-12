@@ -4,7 +4,7 @@ permalink: /qbon/
 author_profile: true
 ---
 
-Status: Dormant (2016-2018|)
+Status: Active (2016-2018) Dormant (2018-)
 
 PI: L-A Couston
 
