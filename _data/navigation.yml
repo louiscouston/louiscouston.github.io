@@ -1,9 +1,12 @@
 # main links links
 main:
 
-  - title: "Projects"
-    url: /projects/
+  - title: "MIMOP"
+    url: /mimop/
 
+  - title: "SLD"
+    url: /sld/
+    
   - title: "Publications"
     url: /publications/
 
