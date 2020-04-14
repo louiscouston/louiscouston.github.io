@@ -10,7 +10,7 @@ PI: L-A Couston
 
 **Leading question:** How quickly does ice melt in lakes and oceans ?
 
-Ongoing investigations: **Topography of the ice/water interface**
+Ongoing investigation: **Topography of the ice/water interface**
 {: .notice} 
 
 1. Is the ice/water interface naturally smooth or rough ?
