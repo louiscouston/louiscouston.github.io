@@ -8,12 +8,13 @@ Status: Active (2019-)
 
 PI: L-A Couston
 
-**Overarching question:** How well do microorganisms thrive in subglacial water systems ?
+**Leading question:** How well do microorganisms thrive in subglacial water systems ?
 
-## Ongoing investigations
-**Hydrodynamics of subglacial lakes**
+Ongoing investigation: **Hydrodynamics of subglacial lakes** 
+{: .notice} 
 
 1. Which Antarctic subglacial lakes (ASL) are at rest ? Which ASL are dynamic ? 
 1. How intense are fluid motions in dynamic ASL ?
 
-Collaborators: Martin Siegert (Imperial College)
+## Collaborators
+- Martin Siegert (Imperial College)
