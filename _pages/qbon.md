@@ -4,20 +4,25 @@ permalink: /qbon/
 author_profile: true
 ---
 
-Status: Active (2016-2018) Dormant (2018-)
+Status: Dormant (2018-) (Active (2016-2018))
 
 PI: L-A Couston
 
-**Overarching question:** How much can we say about a planetary object from the movement of fluids ?
+**Leading question:** How much can we say about a planetary object from the movement of fluids ?
 
-## Planned investigations
-**QBO flows in oceans**
-**QBO flows in planetary cores**
+Planned investigation: **QBO flows in oceans**
+{: .notice} 
 
-## Past investigations
-**Fundamentals of QBO flows**
+Planned investigation: **QBO flows in planetary cores**
+{: .notice} 
+
+Past investigation: **Fundamentals of QBO flows**
+{: .notice} 
 
 1. What controls the emergence of QBO flows ? 
 1. How is the variability of QBO flows related to the wave and turbulence dynamics ? 
 
-Collaborators: Michael Le Bars, Benjamin Favier (IRPHE, CNRS), Daniel Lecoanet (Northwestern)
+## Collaborators
+- Michael Le Bars (IRPHE, CNRS) 
+- Benjamin Favier (IRPHE, CNRS)
+- Daniel Lecoanet (Northwestern University)
