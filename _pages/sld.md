@@ -14,6 +14,7 @@ PI: L-A Couston
 <summary>Hydrodynamics of subglacial lakes</summary>
 
 ```
+
 + Which Antarctic subglacial lakes (ASL) are at rest ? Which ASL are dynamic ?
 + How intense are fluid motions in dynamic ASL ?
 ```
