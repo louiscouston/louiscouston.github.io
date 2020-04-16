@@ -10,6 +10,12 @@ PI: L-A Couston
 
 **Leading question:** How well do microorganisms thrive in subglacial water systems ?
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
 Ongoing investigation: **Hydrodynamics of subglacial lakes** 
 {: .notice} 
 
