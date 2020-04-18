@@ -9,9 +9,8 @@
       <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
     </h3>
     
-    <p>{{ post.authors }}</p>
-    
     <p>
+      {{ post.authors }},
       <i>{{ post.journal }}</i>, 
       {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% if post.arxivurl %}[<a href=" {{ post.arxivurl }} ">arXiv</a>]{% endif %}
