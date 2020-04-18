@@ -12,8 +12,10 @@ PI: L-A Couston
 
 <details>
 <summary>Topography of the ice/water interface</summary>
- + Is the ice/water interface naturally smooth or rough ?
- + How does interface topography change ice melting ?
+ 
+* Is the ice/water interface naturally smooth or rough ?
+* How does interface topography change ice melting ?
+ 
 </details>
 
 ## Collaborators
