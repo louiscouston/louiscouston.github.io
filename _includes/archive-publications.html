@@ -11,7 +11,11 @@
     
     <p>{{ post.authors }}</p>
     
-    <p><i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.arxivurl %}<p>[<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>{% endif %}</p>
+    <p>
+      <i>{{ post.journal }}</i>, 
+      {{ post.date | default: "1900-01-01" | date: "%Y" }}
+      {% if post.arxivurl %}[<a href=" {{ post.arxivurl }} ">arXiv</a>]{% endif %}
+    </p>
 
   </article>
 </div>
