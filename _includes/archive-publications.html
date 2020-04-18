@@ -7,15 +7,14 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
+      {% if post.arxivurl %}
+        <p>[<a href=" {{ post.arxivurl }} ">arXiv version</a>]</p>
+      {% endif %}
     </h3>
     
-    <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} ({{ post.authors }}) </p>
-   
-    {% if post.arxivurl %}
-      <p><<a href=" {{ post.paperurl }} ">Publisher link</a>><<a href=" {{ post.arxivurl }} ">arXiv version</a>></p>
-    {% elsif post.paperurl %}
-      <p><<a href=" {{ post.paperurl }} ">Publisher link</a>></p>
-    {% endif %}
+    <p>{{ post.authors }}</p>
+    
+    <p><i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} ({{ post.authors }}) </p>
 
   </article>
 </div>
