@@ -12,4 +12,4 @@ You can also find my articles on [Google Scholar](https://scholar.google.co.uk/c
 {% for post in site.publications reversed %}{% include archive-publications.html %}{% endfor %}
 
 # Other Publications
-{% for post in site.otherpublications reversed %}{% include archive-publications.html %}{% endfor %}
+{% for post in site.publications reversed %}{% include archive-publications.html %}{% endfor %}
