@@ -1,0 +1,20 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h3 class="archive__item-title" itemprop="headline">
+      <p>{{ title }}</p>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h3>
+    
+    <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} ({{ post.authors }}) </p>
+   
+    {% if post.arxivurl %}
+      <p><<a href=" {{ post.paperurl }} ">Publisher link</a>><<a href=" {{ post.arxivurl }} ">arXiv version</a>></p>
+    {% elsif post.paperurl %}
+      <p><<a href=" {{ post.paperurl }} ">Publisher link</a>></p>
+    {% endif %}
+
+  </article>
+</div>
