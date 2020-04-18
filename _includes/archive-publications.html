@@ -6,12 +6,12 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <h3 class="archive__item-title" itemprop="headline">
-      <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>{% if post.arxivurl %}<p>[<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>{% endif %}
+      <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
     </h3>
     
     <p>{{ post.authors }}</p>
     
-    <p><i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    <p><i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.arxivurl %}<p>[<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>{% endif %}</p>
 
   </article>
 </div>
