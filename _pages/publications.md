@@ -13,4 +13,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.co.uk/c
 
 # Other Publications
 
+{% include base_path %}
+
 {% for post in site.publications if post.collection == 'otherpublications' %}{% include archive-publications.html %}{% endfor %}
