@@ -9,7 +9,7 @@ You can also find my GREAT articles on [Google Scholar](https://scholar.google.c
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}{% {{forloop.index}} %}{% include archive-publications.html %}{% endfor %}
+{% for post in site.publications reversed %}{{forloop.index}}{% include archive-publications.html %}{% endfor %}
 
 # Other publications
 
