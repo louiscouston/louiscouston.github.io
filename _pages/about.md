@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Modelling Ice-shelf Melting and ice-Ocean Processes
-
-Subglacial Lake Dynamics
+* Modelling Ice-shelf Melting and ice-Ocean Processes
+* Subglacial Lake Dynamics
 
 Brief CV
 ------
