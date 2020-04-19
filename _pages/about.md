@@ -10,7 +10,7 @@ redirect_from:
 
 Modelling Ice-shelf Melting and ice-Ocean Processes
 
-Subglacial Lake Dynamics, strange
+Subglacial Lake Dynamics
 
 Brief CV
 ------
