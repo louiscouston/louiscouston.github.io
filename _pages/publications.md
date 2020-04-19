@@ -13,5 +13,5 @@ You can also find my articles on [Google Scholar](https://scholar.google.co.uk/c
 
 # Other publications
 
-{% for post in site.otherpublications %}{% include archive-publications.html %}{% endfor %}
+{% for post in site.otherpublications reversed %}{% include archive-publications.html %}{% endfor %}
 
