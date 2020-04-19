@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* Modelling Ice-shelf Melting and ice-Ocean Processes
-* Subglacial Lake Dynamics
+* Modelling Ice-shelf Melting and ice-Ocean Processes (MIMOP)
+* Subglacial Lake Dynamics (SLD)
 
 Brief CV
 ------
