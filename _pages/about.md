@@ -22,7 +22,7 @@ Research Projects
 
 Past Affiliations
 ------
-*I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to the UK or US.*
+*I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving or collaborating with the UK or US.*
 
 *2018-2020*, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
