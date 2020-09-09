@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Current Research Projects"
+title: "Welcome !"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-* Modelling Ice-shelf Melting and ice-Ocean Processes (MIMOP)
-* Subglacial Lake Dynamics (SLD)
+My full name is Louis-Alexandre Couston and I am an assistant professor in the department of Physics at the University of Lyon and a member of the [Laboratoire de Physique ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since September 1st 2020. My office is: 
+M1 020
+ENS de Lyon
+46, allée d’Italie
+F-69364 LYON CEDEX 07, FRANCE
 
-Brief CV
+Research Projects
+------
+* MIMOP: Modelling Ice-shelf Melting and ice-Ocean Processes (active)
+
+* SLD: Subglacial Lake Dynamics (active)
+
+* SCENT: upSCale ENergy transfers in NaTure (dormant)
+
+*Go to the relevant tabs for more information.*
+
+Past Affiliations
 ------
 *2018-2020*, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
