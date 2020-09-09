@@ -12,16 +12,17 @@ My full name is Louis-Alexandre Couston, but I go by Louis! Since 09/2020, I joi
 
 Research Projects
 ------
+*This is the list of my most recent projects. Go to the relevant tabs for more information.*
 * MIMOP: Modelling Ice-shelf Melting and ice-Ocean Processes (active)
 
 * SLD: Subglacial Lake Dynamics (active)
 
 * SCENT: upSCale Energy transfers in NaTure (dormant)
 
-*Go to the relevant tabs for more information.*
 
 Past Affiliations
 ------
+*I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to the UK or US.*
 *2018-2020*, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
 *2016-2018*, [IRPHE](https://irphe.univ-amu.fr/en), CNRS, Marseille, France, Postdoctoral research assistant
@@ -32,11 +33,13 @@ Past Affiliations
 
 Research Interests
 ------
-* Geophysical fluid dynamics (turbulence, waves, large-scale flows, stratification, rotation)
+* Geophysical Fluid Dynamics (turbulence, waves, large-scale flows, stratification, rotation)
 
 * Hydrodynamics (instability, wave scattering, wave-wave resonance)
 
-* Geophysics (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons)
+* Thermodynamics (phase changes)
+
+* Earth and Space Science (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons)
 
 Solution Methods
 ------
