@@ -16,7 +16,7 @@ Research Projects
 
 * SLD: Subglacial Lake Dynamics (active)
 
-* SCENT: upSCale ENergy transfers in NaTure (dormant)
+* SCENT: upSCale Energy transfers in NaTure (dormant)
 
 *Go to the relevant tabs for more information.*
 
