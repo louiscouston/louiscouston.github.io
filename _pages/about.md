@@ -24,16 +24,18 @@ Past Affiliations
 ------
 *I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to or collaborating with the UK or US.*
 
-*2018-2020*, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
+* 2018-2020, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
-*2016-2018*, [IRPHE](https://irphe.univ-amu.fr/en), CNRS, Marseille, France, Postdoctoral research assistant
+* 2016-2018, [IRPHE](https://irphe.univ-amu.fr/en), CNRS, Marseille, France, Postdoctoral research assistant
 
-*2011-2016*, [TAFlab](https://taflab.berkeley.edu/), UC Berkeley, California, USA, Graduate student researcher
+* 2011-2016, [TAFlab](https://taflab.berkeley.edu/), UC Berkeley, California, USA, Graduate student researcher
 
-*2008-2011*, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
+* 2008-2011, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
 
 Research Interests
 ------
+*These are the kind of keywords that go into the paper I write.*
+
 * Geophysical Fluid Dynamics (turbulence, waves, large-scale flows, stratification, rotation)
 
 * Hydrodynamics (instability, wave scattering, wave-wave resonance)
@@ -44,6 +46,7 @@ Research Interests
 
 Solution Methods
 ------
+*This list is not exhaustive. I also hope to get some experiments going soon.*
 
 * Applied mathematics (model reduction, asymptotic and perturbation analysis, spectral analysis)
 
