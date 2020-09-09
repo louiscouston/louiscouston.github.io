@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis-Alexandre Couston"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Louis-Alexandre Couston"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louis Couston"
+  name             : "Louis-A Couston"
   avatar           : "profile_pic2.jpg"
   bio              : 
-  location         : "Cambridge, UK"
+  location         : "Lyon, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=orC_dKIAAAAJ&hl=fr&oi=ao"
