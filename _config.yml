@@ -184,6 +184,9 @@ collections:
   otherpublications:
     output: true
     permalink: /:collection/:path/
+  whitepapers:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
