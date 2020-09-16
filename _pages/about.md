@@ -16,7 +16,7 @@ If you're looking for me or want to reach out, try
 
 Current Teaching (Fall 2020)
 ------
-* Thermodynamics and heat transfers: Part I (L1)
+* Thermodynamics and heat transfers: Part I (L1)(CM/TD/TP)
 
 * Fluid mechanics (M1)(TD)
 
