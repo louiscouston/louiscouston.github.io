@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Louis-Alexandre Couston, but I go by Louis! Since 09/2020, I joined the [department of Physics at the University of Lyon](https://fst-physique.univ-lyon1.fr/) and the [Laboratoire de Physique ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) as an assistant professor. 
+My name is Louis-Alexandre Couston. I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since 09/2020. 
 
-If you're looking for me, you can try:
-* my email: louis.couston[AT]ens-lyon.fr 
-* my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France 
+If you're looking for me, try
+* my email: louis.couston[AT]ens-lyon.fr, or 
+* my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
 
 Current teaching (fall 2020)
 ------
@@ -30,9 +30,11 @@ Research Projects
 * SCENT: upSCale Energy transfers in NaTure (dormant)
 
 
-Past Affiliations
+Brief CV
 ------
 *I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to or collaborating with the UK or US.*
+
+* 2020-----, [Université de Lyon](https://fst-physique.univ-lyon1.fr/), [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE), Lyon, France, Assistant professor
 
 * 2018-2020, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
