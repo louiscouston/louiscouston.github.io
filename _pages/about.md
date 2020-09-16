@@ -16,9 +16,9 @@ If you're looking for me or want to reach out, try
 
 Current Teaching (Fall 2020)
 ------
-* UE-PHY1A01L Thermodynamics and heat transfers Part I
+* Thermodynamics and heat transfers: Part I (L1)
 
-* Fluid mechanics (TD)
+* Fluid mechanics (M1)(TD)
 
 Research Projects
 ------
