@@ -34,7 +34,7 @@ Brief CV
 ------
 *I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to or collaborating with the UK or US.*
 
-* 2020-----, [Université de Lyon](https://fst-physique.univ-lyon1.fr/), [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE), Lyon, France, Assistant professor
+* 2020-present, [Université de Lyon](https://fst-physique.univ-lyon1.fr/) & [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE), Lyon, France, Assistant professor
 
 * 2018-2020, [British Antarctic Survey](https://www.bas.ac.uk/for-staff/), Cambridge, UK, Marie Curie postdoctoral fellow
 
