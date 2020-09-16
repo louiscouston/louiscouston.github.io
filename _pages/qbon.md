@@ -1,6 +1,6 @@
 ---
-title: "Quasi-Biennial Oscillation flows in Nature"
-permalink: /qbon/
+title: "upSCale ENergy transfers in NaTure"
+permalink: /scent/
 author_profile: true
 ---
 
