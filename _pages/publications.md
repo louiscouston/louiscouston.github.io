@@ -13,6 +13,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.co.uk/c
   {% include archive-publications.html %} 
 {% endfor %}
 
+# White papers
+
+{% for post in site.whitepapers reversed %}{% include archive-publications.html %}{% endfor %}
+
 # Other publications
 
 {% for post in site.otherpublications reversed %}{% include archive-publications.html %}{% endfor %}
