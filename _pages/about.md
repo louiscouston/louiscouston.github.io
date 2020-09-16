@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My full name is Louis-Alexandre Couston, but I go by Louis! Since 09/2020, I joined the [department of Physics at the University of Lyon](https://fst-physique.univ-lyon1.fr/) and the [Laboratoire de Physique ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) as an assistant professor. If you're looking for me, your best chance is to either send me an email (louis.couston[AT]ens-lyon.fr) or check my office (M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France). 
+My name is Louis-Alexandre Couston, but I go by Louis! Since 09/2020, I joined the [department of Physics at the University of Lyon](https://fst-physique.univ-lyon1.fr/) and the [Laboratoire de Physique ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) as an assistant professor. 
+
+If you're looking for me, you can try:
+* my email: louis.couston[AT]ens-lyon.fr 
+* my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France 
+
+Current teaching (fall 2020)
+------
+* UE-PHY1A01L Thermodynamics and heat transfers
+
+* Fluid mechanics
 
 Research Projects
 ------
