@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Louis-Alexandre Couston. I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since 09/2020. 
+My name is Louis-Alexandre Couston and I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since 09/2020. 
 
 If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
