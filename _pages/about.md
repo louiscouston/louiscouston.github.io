@@ -10,15 +10,15 @@ redirect_from:
 
 My name is Louis-Alexandre Couston. I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since 09/2020. 
 
-If you're looking for me, try
+If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
 * my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
 
 Current teaching (fall 2020)
 ------
-* UE-PHY1A01L Thermodynamics and heat transfers
+* UE-PHY1A01L Thermodynamics and heat transfers Part I
 
-* Fluid mechanics
+* Fluid mechanics (TD)
 
 Research Projects
 ------
