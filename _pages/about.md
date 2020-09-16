@@ -14,7 +14,7 @@ If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
 * my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
 
-Current teaching (fall 2020)
+Current Teaching (Fall 2020)
 ------
 * UE-PHY1A01L Thermodynamics and heat transfers Part I
 
