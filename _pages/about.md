@@ -19,8 +19,6 @@ Announcements
 I do not have PhD or postdoctoral funded positions to offer at the moment.
 Prospective students or postdocs with an interest in ocean and atmospheric physics, the cryosphere, and/or space exploration (icy moons) are still encouraged to send me an email as funding opportunities can arise anytime!
 
-* Fluid mechanics (M1)(TD)
-
 Current Teaching (Fall 2020)
 ------
 * Thermodynamics and heat transfers: Part I (L1)(CM/TD/TP)
@@ -36,7 +34,6 @@ Research Projects
 
 * SCENT: upSCale Energy transfers in NaTure (dormant)
 
-
 Brief CV
 ------
 *I've spent 7 years abroad. Don't hesitate to ask if you're interested in moving to or collaborating with the UK or US.*
@@ -51,25 +48,6 @@ Brief CV
 
 * 2008-2011, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
 
-Research Interests
-------
-*These are the kind of keywords that go into the paper I write.*
-
-* Geophysical Fluid Dynamics (turbulence, waves, large-scale flows, stratification, rotation)
-
-* Hydrodynamics (instability, wave scattering, wave-wave resonance)
-
-* Thermodynamics (phase changes)
-
-* Earth and Space Science (ocean and atmospheric dynamics, planetary cores, subglacial lakes, icy moons)
-
-Solution Methods
-------
-*This list is not exhaustive. I also hope to get some experiments going soon.*
-
-* Applied mathematics (model reduction, asymptotic and perturbation analysis, spectral analysis)
-
-* Computer simulations (direct numerical simulations, high-performance computing, immersed boundary methods, phase field methods)
 
 Gallery
 ------
