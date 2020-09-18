@@ -17,7 +17,7 @@ If you're looking for me or want to reach out, try
 Announcements
 ------
 I do not have PhD or postdoctoral funded positions to offer at the moment.
-Prospective students or postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are still encouraged to send me an email as funding opportunities can arise anytime!
+Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are still encouraged to send me an email as funding opportunities can arise anytime!
 
 Current Teaching (Fall 2020)
 ------
