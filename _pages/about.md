@@ -14,7 +14,16 @@ If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
 * my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
 
+Announcements
+------
+I do not have PhD or postdoctoral funded positions to offer at the moment.
+Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are yet encouraged to send me an email as funding opportunities can arise anytime!
 
+Current Teaching (Fall 2020)
+------
+* Thermodynamics and heat transfers: Part I (L1)(CM/TD/TP)
+
+* Fluid mechanics (M1)(TD)
 
 Research Projects
 ------
