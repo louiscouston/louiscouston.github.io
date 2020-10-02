@@ -19,20 +19,19 @@ Announcements
 I do not have PhD or postdoctoral funded positions to offer at the moment.
 Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are yet encouraged to send me an email as funding opportunities can arise anytime!
 
-Current Teaching (Fall 2020)
+Current Research Projects
+------
+* MIMOP: Modelling Ice-shelf Melting and ice-Ocean Processes
+
+* SLD: Subglacial Lake Dynamics
+
+* QBO: Quasi-Biennial Oscillation
+
+Teaching (Fall 2020)
 ------
 * Thermodynamics and heat transfers: Part I (L1)(CM/TD/TP)
 
 * Fluid mechanics (M1)(TD)
-
-Research Projects
-------
-*This is the list of my most recent projects. Go to the relevant tabs for more information.*
-* MIMOP: Modelling Ice-shelf Melting and ice-Ocean Processes (active)
-
-* SLD: Subglacial Lake Dynamics (active)
-
-* SCENT: upSCale Energy transfers in NaTure (dormant)
 
 Brief CV
 ------
