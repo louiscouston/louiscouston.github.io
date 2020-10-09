@@ -12,7 +12,7 @@ The MIMOP project is a
 
 ## Background
 
-
+<center><img src="/images/mimop_cavity_physics_scheme.png" alt="drawing" width="600"/></center>
 
 ## Goal
 
