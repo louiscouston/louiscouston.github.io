@@ -12,7 +12,7 @@ The MIMOP project is a
 
 ## Background
 
-<center><img src="/images/Antarctica_in_3D_credit_esa_lowres.png" alt="drawing" width="600"/></center>
+<center><img src="/images/Antarctica_in_3D_credit_esa_lowres.png" alt="drawing" width="400"/></center>
 
 ## Goal
 
