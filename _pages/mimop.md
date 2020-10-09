@@ -22,7 +22,7 @@ The MIMOP project is a
 
 <center><img src="/images/graphical_abstract.jpg" alt="drawing" width="500"/></center>
 
-<center><img src="/images/eric_prf_dns.png" alt="drawing" width="400"/></center>
+<center><img src="/images/eric_prf_dns.png" alt="drawing" width="500"/></center>
 
 ## Perspectives
 
