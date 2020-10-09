@@ -38,8 +38,8 @@ The MIMOP project is a
 </details>
 
 ## Collaborators
-- Eric Hester (USyd)
-- Benjamin Favier (IRPHE)
-- John Taylor (DAMTP)
-- Adrian Jenkins (Northumbria)
-- Paul Holland (BAS)
+- [Eric Hester](https://www.maths.usyd.edu.au/u/erich/) (University of Sydney, Sydney)
+- [Benjamin Favier](https://sites.google.com/site/bfavierhome/) (IRPHE, Marseille)
+- [John Taylor](http://www.damtp.cam.ac.uk/user/jrt51/) (DAMTP, Cambridge)
+- [Adrian Jenkins](https://www.northumbria.ac.uk/about-us/our-staff/j/adrian-jenkins/) (Northumbria University, Newcastle) 
+- [Paul Holland](https://www.bas.ac.uk/profile/pahol/) (DAMTP) (BAS, Cambridge)
