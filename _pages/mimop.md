@@ -19,7 +19,7 @@ The MIMOP project is a
 ## Results
 
 
-![Graphical abstract of our last paper](/images/graphical_abstract.jpg)
+![Graphical abstract of our last paper](/images/graphical_abstract.jpg =250x)
 
 
 ## Perspectives
