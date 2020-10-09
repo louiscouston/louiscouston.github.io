@@ -4,9 +4,26 @@ permalink: /mimop/
 author_profile: true
 ---
 
-Status: Active (2018-)
+The MIMOP project is a
 
-PI: L-A Couston
+
+## Background
+
+
+
+## Goal
+
+
+
+
+## Results
+
+
+![Graphical abstract of our last paper](/images/graphical_abstract.jpg)
+
+
+## Perspectives
+
 
 **Leading question:** How quickly does ice melt in lakes and oceans ?
 
