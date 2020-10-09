@@ -14,11 +14,12 @@ The MIMOP project is a
 ## Goal
 
 
+![Graphical abstract of our last paper](/images/mimop_cavity_physics_scheme.png)
 
 
 ## Results
 
-<img src="/images/graphical_abstract.jpg" alt="drawing" width="200"/>
+<center><img src="/images/graphical_abstract.jpg" alt="drawing" width="400"/></center>
 
 
 ## Perspectives
