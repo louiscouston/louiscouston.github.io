@@ -4,10 +4,13 @@ permalink: /mimop/
 author_profile: true
 ---
 
-The MIMOP project is a
-
-
 <img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="400" align="right"/>
+
+The MIMOP project aims to answer the question:
+**How quickly do ice shelves melt ?**
+It received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
+Sklodowska-Curie grant agreement 793450.
+
 
 
 
