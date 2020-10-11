@@ -15,9 +15,9 @@ I moved from the British Antarctic Survey to the Université de Lyon on Setpembe
 
 ## Background
 
-Most of the ice of our planet calls Antarctica home. But it is a fragile place. As temperatures rise both in the atmosphere and the oceans, grounded ice and floating ice on and around the Antarctic continent is melting increasingly rapidly. Snow falls is not picking up the pace such that there is a net transfer of mass from solid ice to melt water in the southern ocean.
+Most of the ice of our planet calls home Antarctica. But it is a fragile place. As temperatures rise both in the atmosphere and the oceans, grounded ice and floating ice on and around the Antarctic continent are melting increasingly rapidly. Snow falls, which used to balance melting, haven't picked up the pace. As a result, more and more ice is being transformed into southern ocean water and one should expect sea levels to rise in the 21st century much faster than we humans ever witnessed. 
 
-<center><img src="/images/Antarctica_in_3D_credit_esa_lowres.png" alt="drawing" width="400"/></center>
+<center><img src="/images/Antarctica_in_3D_credit_esa_lowres.png" align="top" width="400"/></center>
 
 ## Goal
 
