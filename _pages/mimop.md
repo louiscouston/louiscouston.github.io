@@ -2,12 +2,10 @@
 title: "Modelling Ice-shelf Melting and ice-Ocean Processes"
 permalink: /mimop/
 author_profile: true
----
-
-<img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="350" align="right"/>
-
+---  
+<img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="350" align="right"/>  
 The MIMOP project aims to answer the question:  
- __How quickly do ice shelves melt ?__  
+__How quickly do ice shelves melt ?__  
 It received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
 Sklodowska-Curie grant agreement 793450.
 
@@ -16,6 +14,8 @@ Sklodowska-Curie grant agreement 793450.
 I moved from the British Antarctic Survey to the Université de Lyon on Setpember 1st 2020. 
 
 ## Background
+
+Most of the ice of our planet calls Antarctica home. But it is a fragile place. As temperatures rise both in the atmosphere and the oceans, grounded ice and floating ice on and around the Antarctic continent is melting increasingly rapidly. Snow falls is not picking up the pace such that there is a net transfer of mass from solid ice to melt water in the southern ocean.
 
 <center><img src="/images/Antarctica_in_3D_credit_esa_lowres.png" alt="drawing" width="400"/></center>
 
