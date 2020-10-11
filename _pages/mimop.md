@@ -7,6 +7,10 @@ author_profile: true
 The MIMOP project is a
 
 
+<img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="400" align="right"/>
+
+
+
 ## News
 
 
