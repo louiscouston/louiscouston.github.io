@@ -4,7 +4,7 @@ permalink: /mimop/
 author_profile: true
 ---
 
-<img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="400" align="right"/>
+<img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="350" align="right"/>
 
 The MIMOP project aims to answer the question:  
  __How quickly do ice shelves melt ?__  
