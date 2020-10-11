@@ -11,11 +11,9 @@ The MIMOP project aims to answer the question:
 It received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
 Sklodowska-Curie grant agreement 793450.
 
-
-
-
 ## News
 
+I moved from the British Antarctic Survey to the Université de Lyon on Setpember 1st 2020. 
 
 ## Background
 
