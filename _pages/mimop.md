@@ -2,11 +2,12 @@
 title: "Modelling Ice-shelf Melting and ice-Ocean Processes"
 permalink: /mimop/
 author_profile: true
----  
-<img src="/images/logo20marie20curie20actions.jpg" align="bottom" width="350" align="right"/>  
+---
+
+<img src="/images/logo20marie20curie20actions.jpg" align="bottom" width="350" align="right">
 The MIMOP project aims to answer the question:  
 __How quickly do ice shelves melt ?__  
-It received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
+and received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
 Sklodowska-Curie grant agreement 793450.
 
 ## News
