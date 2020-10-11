@@ -22,6 +22,10 @@ Most of the ice of our planet calls home Antarctica. But it is a fragile place. 
 
 ## Goal
 
+The Antarctic Ice Sheet (AIS) is mostly grounded but some it is floating. We call the ice chunks attached to the grounded ice but floating above sea water ice shelves. Ice shelves are a critical component of the AIS. The thicker they are, the more they oppose the gravitational flow of ice from the Antarctic centre to the margins. Recent observations show that ice shelves are melting and thinning increasingly rapidly. So, yes, the polar regions are changing. But can we predict how quickly this change, that is, the increased melting and thining of AIS, and the resulting sea-level rise, is going to take place?  
+
+
+
 <center><img src="/images/mimop_cavity_physics_scheme.png" alt="drawing" width="600"/></center>
 
 ## Results
