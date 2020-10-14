@@ -2,7 +2,7 @@
 layout: archive
 title: "Peer-Reviewed Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.co.uk/citations?user=orC_dKIAAAAJ&hl=fr&oi=ao){:target="_blank"}.
