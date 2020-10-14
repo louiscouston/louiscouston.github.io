@@ -1,7 +1,7 @@
 ---
 title: "Modelling Ice-shelf Melting and ice-Ocean Processes"
 permalink: /mimop/
-author_profile: true
+author_profile: false
 ---
 
 <img src="/images/logo20marie20curie20actions.jpg" alt="drawing" width="350" align="right">
