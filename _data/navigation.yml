@@ -4,21 +4,24 @@ main:
   - title: "MIMOP"
     url: /mimop/
 
-  - title: "SLD"
-    url: /sld/
-    
-  - title: "SCENT"
-    url: /scent/
+  - title: "Projects"
+    url: /projects/
+        
+  - title: "Teaching"
+    url: /teaching/   
     
   - title: "Publications"
     url: /publications/
 
+  - title: "Ressources"
+    url: /ressources/ 
+
 #  - title: "Talks"
 #    url: /talks/    
+ 
+#  - title: "SLD"
+#  url: /sld/
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
 #  - title: "Personal"
 #    url: /personal/
         
