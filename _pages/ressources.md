@@ -16,12 +16,13 @@ Research Institutes
 [Laboratoire de Planétologie et Géodynamique de Nantes](https://lpg-umr6112.fr/index.php?lang=en)  
 [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](https://www.damtp.cam.ac.uk/)  
 
-Funding agencies  
+Funding Agencies  
 [European Research Council](https://erc.europa.eu/)  
 [Agence National de la Recherche](https://anr.fr/en/)
 [National Science Foundation](https://www.nsf.gov/)  
+[Royal Society](https://royalsociety.org/)
 
-Research tools  
+Research Tools  
 [Dedalus](https://dedalus-project.org/)  
 [Nek5000](https://nek5000.mcs.anl.gov/)  
 [Freefem++](https://doc.freefem.org/introduction/index.html)  
@@ -29,4 +30,9 @@ Research tools
 [MITgcm](http://mitgcm.org/)  
 
 For Postdocs  
-[Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/node_en)    
+[Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/node_en)  
+[Royal Society University Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/)  
+[Newton International Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)  
+[NERC Independent Research Fellowship](https://nerc.ukri.org/funding/available/fellowships/irf/)
+
+
