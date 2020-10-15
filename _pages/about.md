@@ -48,8 +48,6 @@ Brief CV
 * 2008-2011, [École Polytechnique](https://www.polytechnique.edu/en), Palaiseau, France, Undergraduate student
 
 
-Gallery
-------
+<!-- ![Graphical abstract of our last paper](/images/graphical_abstract.jpg) -->
 
-![Graphical abstract of our last paper](/images/graphical_abstract.jpg)
 
