@@ -12,7 +12,7 @@ Sklodowska-Curie grant agreement 793450.
 
 ## News
 
-I moved from the British Antarctic Survey to the Université de Lyon on Setpember 1st 2020, but I will keep working on this project for the foreseeable future. Do not hesitate to reach out if you want to work on MIMOP or a related project as I'd be more than happy to accomodate your interests. The more the merrier!
+I moved from the British Antarctic Survey to the Université de Lyon on Setpember 1st 2020, but I will keep working on this project for the foreseeable future. **Do not hesitate to reach out** if you want to work on MIMOP or a related topic as I'd be more than happy to accomodate your interests in the general field of **polar oceanography**. The more the merrier!
 
 ## Background
 
@@ -28,7 +28,7 @@ The Antarctic Ice Sheet (AIS) is mostly grounded but some it is floating. We cal
 
 Figure (a) above is a schematic of an ice-shelf cavity. An ice-shelf cavity can be quite large. It can cover an horizontal area up to 1000,000 square kilometers, the ice-shelf can be up to 1 kilometer thick, and the water column can be 1 kilometer deep. The water inside an ice-shelf cavity is ventilated to compensate for the input of subglacial water drained from below the AIS and the inflow of open-ocean water pushed poleward by the winds. Modelling and understanding, let alone predicting, the circulation of water in an ice-shelf cavity is a formidably complicated task. Fortunately, the scientific community is throwing a lot of manpower, computing time and ship time at this problem, such that we may be able to reduce uncertainties in sea-level rise forecasts over the next few years... or decades.  
 
-The role of MIMOP in this is to develop high-fidelity models of the ice melting dynamics. We're not attempting to reproduce everything that's going on in the cavity, but rather what's going on near the ice-water interface. We resolve turbulent motions explicitly and track the movement of the ice-water interface. We use the phase-field method to simultaneously solve for the fluid dynamics and diffusion of heat in the solid. As a result, we can detect the generation of topography at the ice-water interface and assess whether or not this topography can affect the overall efficiency of heat fluxes from the ocean to the ice and ultimately the mean melt rates.
+The role of MIMOP in this is to **develop high-fidelity models of the ice melting dynamics**. We're not attempting to reproduce everything that's going on in the cavity (Figure (a)), but rather what's going on near the ice-water interface (Figure (b)). We resolve turbulent motions explicitly and track the movement of the ice-water interface. We use the **phase-field method** to simultaneously solve for the fluid dynamics and diffusion of heat in the solid. As a result, we can detect the generation of topography at the ice-water interface and assess whether or not this topography can affect the overall efficiency of heat fluxes from the ocean to the ice and ultimately the mean melt rates.
 
 ## Results
 
