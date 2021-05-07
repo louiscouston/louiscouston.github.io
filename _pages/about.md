@@ -8,30 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-My name is Louis-Alexandre Couston and I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and [ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE) since 09/2020. 
+I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/). I lead the Subglacial Hydrodynamics and Ice-Water Interactions (SHIWI) research team of the [Laboratoire de Physique at ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE). Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are planning to set up a laboratory experiment of melting ice in water to complement our computational efforts. 
 
+Current Research Projects
+------
+* Hydrodynamics of subglacial lakes 
+
+* Hydrodynamics and phase changes in subglacial water lenses
+
+Contact
+------
 If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
 * my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
+Note that I go by Louis, altough my full first name is Louis-Alexandre.
 
 Announcements
 ------
 I do not have PhD or postdoctoral funded positions to offer at the moment.
 Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are yet encouraged to send me an email as funding opportunities can arise anytime!
 
-Current Research Projects
-------
-* MIMOP: Modelling Ice-shelf Melting and ice-Ocean Processes
-
-* SLD: Subglacial Lake Dynamics
-
-* QBO: Quasi-Biennial Oscillation
-
-Teaching (Fall 2020)
-------
-* Thermodynamics and heat transfers: Part I (L1)(CM/TD/TP)
-
-* Fluid mechanics (M1)(TD)
 
 Brief CV
 ------
