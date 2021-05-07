@@ -13,7 +13,7 @@ Our goal is to improve forecasts of the melting of polar ice caps and guide the 
 
 Team
 ------
-* Louis-Alexandre Couston (PI)
+* Louis-Alexandre Couston
 * Joseph Nandaha
 * Clément de la Salle 
 
