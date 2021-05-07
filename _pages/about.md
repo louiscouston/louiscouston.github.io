@@ -28,6 +28,7 @@ Contact
 If you're looking for me or want to reach out, try
 * my email: louis.couston[AT]ens-lyon.fr, or 
 * my office: M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. 
+
 Note that I go by Louis, altough my full first name is Louis-Alexandre.
 
 Announcements
