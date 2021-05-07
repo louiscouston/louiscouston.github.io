@@ -9,7 +9,13 @@ redirect_from:
 ---
 
 I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/). I lead the Subglacial Hydrodynamics and Ice-Water Interactions (SHIWI) research team of the [Laboratoire de Physique at ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE). 
-Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are planning to set up a laboratory experiment of melting ice in water to complement our computational efforts. 
+Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are aiming to set up a laboratory experiment of melting ice in water to complement our computational efforts in the coming years. 
+
+Team
+------
+* Louis-Alexandre Couston (PI)
+* Joseph Nandaha
+* Clément de la Salle 
 
 Current Research Projects
 ------
