@@ -34,7 +34,11 @@ Note that I go by Louis, altough my full first name is Louis-Alexandre.
 Announcements
 ------
 I do not have PhD or postdoctoral funded positions to offer at the moment.
-Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are yet encouraged to send me an email as funding opportunities can arise anytime!
+Prospective students and postdocs with an interest in ocean and atmospheric dynamics, the cryosphere, and/or space exploration (icy moons) are yet encouraged to send me an email as funding opportunities can arise anytime! You may also check out [Campus France](https://www.campusfrance.org/en), [Campus Bourse](https://campusbourses.campusfrance.org/#/catalog) and the [Foreign Affairs](https://www.diplomatie.gouv.fr/fr/venir-en-france/etudier-en-france/financer-son-projet-d-etudes-en-france/) webpages for funding opportunities.
+
+PhD students abroad may have the opportunity to visit our lab 12 months through the [Effeil grant](https://www.diplomatie.gouv.fr/fr/venir-en-france/etudier-en-france/financer-son-projet-d-etudes-en-france/). Please send me an email if your PhD topic fits our research interests.
+
+Postdoctoral researchers (especially those with already postdoc experience) are strongly encouraged to apply for the [Marie Curie Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships), which is a prestigious fellowship that is often used as a way to subsequently obtain a job in academia. The program [Make our planet great](https://www.campusfrance.org/en/mopga-make-our-planet-great-again-funding-programs) again offers a 1-year postdoc fellowship, with a start date in september 2022. Please send me an email if you're interested in joining our lab to work on ice-ocean and ice-lake interactions or more generally geophysical fluid dynamics. CNES (space agency) also offers 2-year [postdoctoral fellowships](https://cnes.fr/en/web/CNES-en/7430-research-grants.php) that may support research on icy moons and dwarf planets. 
 
 
 Brief CV
