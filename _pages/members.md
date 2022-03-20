@@ -20,12 +20,12 @@ Collaborators
 * Prof. Martin Siegert (professor, Imperial University)
 * Dr. Paul Holland (researcher, British Antarctic Survey)
 * Prof. John Taylor (associate professor, Cambridge University)
-* Dr. Eric Hester (researcher, British Antarctic Survey)
+* Dr. Eric Hester (Hedrick assistant adjunct professor, University of California Los Angeles)
 * Prof. Daniel Lecoanet (assistant professor, Northwestern University)
 
 Alumni
 ------
-* Guillaume Gachon (winter 21-22 M2 student intern, ENSL, next: internship with Julie Deshayes at LOCEAN/IPSL)
+* Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL, next: internship with Julie Deshayes at LOCEAN/IPSL)
 
 *topic: 2d dynamics of ice melting in salt water
 * Joseph Nandaha (spring 2021 M2 student intern, UCBL, next: )
@@ -37,4 +37,5 @@ Alumni
 *topic: 2d dynamics and phase changes of disk-shaped water lenses immersed in ice
 
 * Gabriel Billiet (summer 2020 L3 student intern, École Polytechnique, next: MSc Génie Energétique à Polytechnique Montréal)
- *topic: melt-rate inference from temperature data extracted from probes in ice shelves
+
+*topic: melt-rate inference from temperature data extracted from probes in ice shelves
