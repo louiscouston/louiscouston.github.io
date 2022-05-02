@@ -9,8 +9,7 @@ Current Members
 * Dr. Louis-Alexandre Couston (PI, assistant professor, UCBL/ENSL)
 * Dr. Jason Reneuve (postdoctoral teaching fellow, ENSL)
 * Adrien Villaret (M1 student intern, École Polytechnique)
-
-*topic: 3d dual dynamics of mixed rotating Rayleigh-Bénard and horizontal convection  
+*topic: 3d dual dynamics of mixed rotating Rayleigh-Bénard and horizontal convection*  
 
 Collaborators
 ------
