@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/). I lead the Subglacial Hydrodynamics and Ice-Water Interactions (SHIWI) research team at the [Laboratoire de Physique of ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE). 
-Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are aiming to set up a laboratory experiment of melting ice in water to complement our computational efforts in the coming years. 
+Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are currently setting up a laboratory experiment of ice melting in salt water (led by collaborators [Romain Volk](http://perso.ens-lyon.fr/romain.volk/) and [Sylvain Joubaud](http://perso.ens-lyon.fr/sylvain.joubaud/)) to complement our computational efforts. 
 
 Physical Systems That Motivate Our Work
 ------
 * Oceans and lakes
 * Polar ice sheets
-* Ice shelves and ice-shelf ocean cavities
+* Ice shelves and sub ice-shelf ocean cavities
 * Icebergs
 * Subglacial lakes
 * Supraglacial lakes and rivers
@@ -26,27 +26,37 @@ Physical Systems That Motivate Our Work
 The Long Shot
 ------
 We have currently four long-term goals:
-* We aim to guide the development of the next generation of ocean models by proposing new parameterizations of phase changes at ice-water interfaces realiable in all conditions.
-* We aim to guide the exploration of extreme environments of interests to astrobiology by quantitatively assessing the dynamics of subglacial water on Earth and Icy Moons.
-* We aim to guide the analysis and modelling of equatorial zonal winds (such as the Quasi-Biennial Oscillation on Earth) by unravelling their relationship to atmospheric turbulence and waves.  
-* We aim to propose an industry-ready algorithm providing best practices for coastal protection and enhanced wave energy extraction via engineering of seabed topography.  
+* To guide the development of the next generation of ocean models by proposing new parameterizations of phase changes at ice-water interfaces realiable in all conditions.
+* To guide the exploration of extreme environments of interests to astrobiology by quantitatively assessing the dynamics of subglacial water on Earth and Icy Moons.
+* To guide the analysis and modelling of equatorial zonal winds (such as the Quasi-Biennial Oscillation on Earth) by unravelling their relationship to atmospheric turbulence and waves.  
+* To propose an industry-ready algorithm providing best practices for coastal protection and enhanced wave energy extraction via engineering of seabed topography.  
 
 Questions We Have Started To Address Via Investigations Of Thermo-Mechanical Dynamics Of Geophysical Fluids
 ------
 * What waves does turbulence generate?
 * How do internal waves mix oceans?
-* Can we predict zonal winds in Earth's equatorial stratosphere?
+* Can we predict large-scale zonal winds in Earth's equatorial stratosphere?
 * Can we identify the physical processes controlling the melting of ice shelves and icebergs?
 * Can seabed topography protect coastlines from ocean waves?
-* Does water move around in subglacial lakes?
-* How long can subsurface water lenses in icy moons survive before they freeze?
+* Does water circulate in subglacial lakes? How?
+* How long can subsurface water lenses in icy moons survive before they freeze? How do they deform over time?
 * Are ice sheets impacted by the presence of subglacial lakes?
 
-Currently-Active Research Projects
+Currently Active Research Projects
 ------
-* Dynamics of rotating subglacial lakes 
-* Dynamics of Earth's Quasi-Biennial Oscillation
-* Physics of ice melting in salt water 
+* Unravelling the dynamics of rotating subglacial lakes (several hundreds exist on Earth)
+* Unravelling the dynamics of subglacial lake CECs, which will be explored within the next 4-to-5 years
+* Unravelling the effect of changing temperature and salinity on iceberg and ice-shelf melting  
+* Unravelling the effect of phase boundary topography on boundary layer flows
+* Unravelling the dynamics of Earth's Quasi-Biennial Oscillation (dominant circulation in the stratosphere)
+
+Computational Tools And Ressources
+------
+* Occasionaly we write our own codes (Python, Matlab, Julia... soon)
+* Most often we use the (awesome!) open-source pseudo-spectral code [Dedalus](https://dedalus-project.org/)
+* And we use the open-source spectral-element code [Nek5000](https://nek5000.mcs.anl.gov/) when we consider complex geometries
+* High-performance high-CPU count simulations are often run on our local supercomputer [PSMN](http://www.ens-lyon.fr/PSMN/doku.php)
+* Though we also have experience running on other supercomputers, including [NASA Pleiades](https://www.nas.nasa.gov/hecc/resources/pleiades.html) and [CINECA Marconi](https://www.hpc.cineca.it/hardware/marconi)
 
 Contact
 ------
@@ -63,7 +73,7 @@ Prospective students and postdocs with an interest in ocean and atmospheric dyna
 
 PhD students abroad may have the opportunity to visit our lab 12 months through the [Effeil grant](https://www.diplomatie.gouv.fr/fr/venir-en-france/etudier-en-france/financer-son-projet-d-etudes-en-france/). Please send me an email if your PhD topic fits our research interests.
 
-Postdoctoral researchers (especially with previous postdoc experience) are strongly encouraged to apply for the [Marie Curie Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships), which is a prestigious fellowship that is often used as a way to subsequently obtain a job in academia. The program [Make our planet great](https://www.campusfrance.org/en/mopga-make-our-planet-great-again-funding-programs) again offers a 1-year postdoc fellowship, with a start date in september 2022. Please send me an email if you're interested in joining our lab to work on ice-ocean and ice-lake interactions or more generally geophysical fluid dynamics. CNES (space agency) also offers 2-year [postdoctoral fellowships](https://cnes.fr/en/web/CNES-en/7430-research-grants.php) that may support research on icy moons and dwarf planets. 
+Postdoctoral researchers (especially with previous postdoc experience) are strongly encouraged to apply for the [Marie Curie Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships), which is a prestigious fellowship that is often used as a way to subsequently obtain a job in academia. The program [Make our planet great again](https://www.campusfrance.org/en/mopga-make-our-planet-great-again-funding-programs) offers a 1-year postdoc fellowship, with a start date in september 2022. Please send me an email if you're interested in joining our lab to work on ice-ocean and ice-lake interactions or more generally geophysical fluid dynamics. CNES (space agency) also offers 2-year [postdoctoral fellowships](https://cnes.fr/en/web/CNES-en/7430-research-grants.php) that may support research on icy moons and dwarf planets. 
 
 
 Brief CV
