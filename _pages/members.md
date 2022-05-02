@@ -7,9 +7,9 @@ author_profile: false
 Current Members
 ------
 * Dr. Louis-Alexandre Couston (PI, assistant professor, UCBL/ENSL)
-* Dr. Jason Reneuve (postdoctoral teaching fellow, ENSL)
-* Adrien Villaret (M1 student intern, École Polytechnique)
-*topic: 3d dual dynamics of mixed rotating Rayleigh-Bénard and horizontal convection*  
+* Dr. Jason Reneuve (postdoctoral teaching fellow, AGPR, ENSL; *QBO dynamics*)
+* Adrien Villaret (M1 student intern, École Polytechnique; *Rotating mixed Rayleigh-Bénard and horizontal convection*)
+* Corentin Prados (M1 student intern, École Normale Supérieure de Lyon; *Dynamics of phase-change boundaries*)
 
 Collaborators
 ------
@@ -24,17 +24,7 @@ Collaborators
 
 Alumni
 ------
-* Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL, next: internship with Julie Deshayes at LOCEAN/IPSL)
-
-*topic: 2d dynamics of ice melting in salt water
-* Joseph Nandaha (spring 2021 M2 student intern, UCBL, next: )
-
-*topic: 2d dual dynamics of mixed Rayleigh-Bénard and horizontal convection
-
-* Clément de la Salle (spring 2021 M2 student intern, ENSL, next: high-school teacher)
-
-*topic: 2d dynamics and phase changes of disk-shaped water lenses immersed in ice
-
-* Gabriel Billiet (summer 2020 L3 student intern, École Polytechnique, next: MSc Génie Energétique à Polytechnique Montréal)
-
-*topic: melt-rate inference from temperature data extracted from probes in ice shelves
+* Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL; *2d dynamics of ice melting in salt water*; next: internship with Julie Deshayes at LOCEAN/IPSL)
+* Joseph Nandaha (spring 2021 M2 student intern, UCBL; *2d dual dynamics of mixed Rayleigh-Bénard and horizontal convection*)
+* Clément de la Salle (spring 2021 M2 student intern, ENSL; *2d dynamics of subglacial water disks*; next: physics teacher at Lycée Colbert, Lyon 8è)
+* Gabriel Billiet (summer 2020 L3 student intern, École Polytechnique; *melt-rate inference from temperature data extracted from probes in ice shelves*; next: MSc Génie Energétique à Polytechnique Montréal)
