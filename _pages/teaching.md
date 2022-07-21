@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I regularly teach courses at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS), as well as at the graduate level for the Masters of Sciences in Oceans, Atmosphere and Climate (SOAC) at Université Claude Bernard Lyon 1 (UCBL). I also regularly teach courses at the graduate level for the Batchelor/Master of Sciences in Physics (SDM) at ENS de Lyon (ENSL). 
+I regularly teach courses at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS), as well as at the graduate level for the Master of Science in Oceans, Atmosphere and Climate Sciences (SOAC) at Université Claude Bernard Lyon 1 (UCBL). I also regularly teach courses at the graduate level for the Batchelor/Master of Science in Physics (SDM) at ENS de Lyon (ENSL). 
 
 # Courses taught 2022-2023
 
