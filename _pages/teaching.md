@@ -4,16 +4,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-License de Physique (UCBL)
-* Thermodynamique et Transferts Thermiques: Partie I, L1, CM/TD/TP (fall 2020)
+I regularly teach courses at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS), as well as at the graduate level for the Masters of Sciences in Oceans, Atmosphere and Climate (SOAC) at Université Claude Bernard Lyon 1 (UCBL). I also regularly teach courses at the graduate level for the Batchelor/Master of Sciences in Physics (SDM) at ENS de Lyon (ENSL). 
 
-Parcours Accés Santé (UCBL)
-* Physique Générale, L1, TD (spring 2021, 2022)
+# Courses taught 2022-2023
 
-Master Science de la Matière/SdM (ENS de Lyon, UCBL)
-* Mécanique des Fluides, M1, CM/TD (fall 2021)
+* Atmosphere, Ocean and Ice Interactions CM/TD (M2, SOAC, UCBL, Spring 2023)
+* Computational Projects in Climate Sciences (M1, SOAC, UCBL, Spring 2023)
+* Physics TD (L1, PASS, UCBL, Spring 2023)
+* Fluid Dynamics CM/TD (M1, SDM, ENSL, Fall 2022)
 
-Master Science des Océans, de l'Atmosphère et du Climat/SOAC (UCBL)
-* Projets Numériques (spring 2021, 2022)
-* Fundamentals of Ice-Sheet Dynamics (spring 2021, 2022)
+# Courses taught in previous years
 
+* Fundamentals of Ice-Sheet Dynamics CM/TD (M2, SOAC, UCBL, Spring 2021/2022)
+* Computational Projects in Climate Sciences (M1, SOAC, UCBL, Spring 2021/2022)
+* Physics TD (L1, PASS, UCBL, Spring 2021/2022)
+* Fluid Dynamics CM/TD (M1, SDM, ENSL, Fall 2021)
+* Thermodynamics and Heat Transfers I CM/TD/TP (L1, PB, UCBL, Fall 2020)
+
+# Academic supervision
