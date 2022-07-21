@@ -6,6 +6,8 @@ author_profile: true
 
 I regularly teach courses at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS), as well as at the graduate level for the Master of Science in Oceans, Atmosphere and Climate Sciences (SOAC) at Université Claude Bernard Lyon 1 (UCBL). I also regularly teach courses at the graduate level for the Batchelor/Master of Science in Physics (SDM) at ENS de Lyon (ENSL). 
 
+CM (cours magistral) means lectures. TD (travaux dirigés) means discussion sections. TP (travaux pratiques) means practical training.
+
 # Courses taught 2022-2023
 
 * Atmosphere, Ocean and Ice Interactions CM/TD (M2, SOAC, UCBL, Spring 2023)
