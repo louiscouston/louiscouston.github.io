@@ -12,12 +12,12 @@ Current Members
 Alumni
 ------
 Click on the research topic of past student members to see their internship report.  
-* Adrien Villaret (M1 student intern, École Polytechnique; *Rotating mixed Rayleigh-Bénard and horizontal convection*)
-* Corentin Prados (M1 student intern, École Normale Supérieure de Lyon; *Dynamics of phase-change boundaries*)
+* Corentin Prados (spring 2022 M1 student intern, École Normale Supérieure de Lyon; *Dynamics of pressure-driven flows at a corrugated boundary*; next: préparation à l 'agrégation at ENSL)
+* Adrien Villaret (spring 2022 M1 student intern, École Polytechnique; *Rotating mixed Rayleigh-Bénard and horizontal convection*; next: MSc Environmental Engineering at UC Berkeley)
 * Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL; *Dynamics of ice melting in salt water*; next: internship with Julie Deshayes at LOCEAN/IPSL)
 * Joseph Nandaha (spring 2021 M2 student intern, UCBL; [Dynamics of mixed Rayleigh-Bénard and horizontal convection](/files/M2SOAC_STAGE_Nandaha_Joseph.pdf))
 * Clément de la Salle (spring 2021 M2 student intern, ENSL; *Dynamics of subglacial water disks*; next: physics teacher at Lycée Colbert, Lyon 8è)
-* Gabriel Billiet (summer 2020 L3 student intern, École Polytechnique; *Inferring melt rates from probe-based temperature data of ice shelves*; next: MSc Génie Energétique à Polytechnique Montréal)
+* Gabriel Billiet (summer 2020 L3 student intern, École Polytechnique; [Inferring melt rates from probe-based temperature data of ice shelves](/files/L3X_STAGE_Gabriel_Billiet.pdf); next: MSc Génie Energétique à Polytechnique Montréal)
 
 Collaborators
 ------
