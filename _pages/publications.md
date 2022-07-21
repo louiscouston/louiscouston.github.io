@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-Click on each title to visit the publisher's listing of a paper.
+Click on each title to visit the publisher's listing of our paper.
 You can also find our articles (as well as conference abstracts) on [Google Scholar](https://scholar.google.co.uk/citations?user=orC_dKIAAAAJ&hl=fr&oi=ao){:target="_blank"}.
 
 {% include base_path %}
