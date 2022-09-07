@@ -21,6 +21,11 @@ Coming soon.
 
 ## Subglacial Lake Dynamics
 
+An outstanding question in astrobiology is:
+**What is the fluid dynamics of extraterrestrial, subglacial, aquatic environments?**
+
+This question is of importance because subglacial aquatic environments, expected on numerous icy moons (Enceladus, Europa), are the most likely places to have (had) extraterrestrial life forms in the solar system. 
+
 Coming soon.
 
 ## Atmospheric Dynamics (Quasi-Biennial Oscillation)
