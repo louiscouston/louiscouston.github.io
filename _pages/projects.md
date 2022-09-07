@@ -9,7 +9,7 @@ author_profile: false
 An outstanding question in polar oceanography is:  
 **How quickly do ice shelf melt or dissolve as a result of heat and salt exchanges with the underlying ocean?**
 
-This question is difficult to address because heat and salt exchanges between the base of ice shelves and subglacial oceans are controlled by turbulent processes, whose sensitivities to environmental conditions are unknown (e.g., sensitivity to near ice ocean current velocity, which can significantly vary between ice shelves). 
+This question is difficult to address because heat and salt exchanges between the base of ice shelves and subglacial oceans are controlled by turbulent motions, whose sensitivities to environmental conditions are unknown (e.g., sensitivity to near ice ocean current velocity, which can significantly vary between ice shelves). 
 
 Our group tackles this question by running turbulence-resolving simulations of the ice-ocean boundary layer, using environmental conditions (prescribed background state and forcings) inspired from observations. Our simulations can model explicitly deformations of the ice-water interface due to melting or freezing, allowing us to investigate whether long-lived interfacial patterns spontaneously emerge and modify the mean ice ablation rate. Results obtained from simulations will be soon extended to computationally-extreme conditions (high Reynolds number flows) using novel, state-of-the-art laboratory experiments of ice ablation in stratified, externally-forced salt water.    
 
