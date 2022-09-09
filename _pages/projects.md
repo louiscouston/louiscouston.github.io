@@ -7,7 +7,7 @@ author_profile: false
 ## Subglacial Ocean Dynamics (small scales)
 
 An outstanding question in polar oceanography is:  
-**How quickly do ice shelf melt or dissolve as a result of heat and salt exchanges with the underlying ocean?**
+**How quickly do ice shelf melt or dissolve from heat and salt fluxes conveyed by the ocean?**
 
 This question is difficult to address because heat and salt exchanges between the base of ice shelves and subglacial oceans are controlled by turbulent motions, whose sensitivities to environmental conditions are unknown (e.g., sensitivity to near ice ocean current velocity, which can significantly vary between ice shelves). 
 
@@ -24,9 +24,9 @@ Coming soon.
 An outstanding question in astrobiology is:
 **What is the fluid dynamics of extraterrestrial, subglacial, aquatic environments?**
 
-This question is of importance because subglacial aquatic environments, expected on numerous icy moons (Enceladus, Europa), are the most likely places to have (had) extraterrestrial life forms in the solar system. 
+This question is of importance because subglacial aquatic environments, expected on numerous icy moons (Enceladus, Europa) and possibly beneath Mars' polar ice cap, are the most likely places to have (had) extraterrestrial life forms in the solar system. Subglacial aquatic environments are very different from open oceans and surface lakes. They are isolated from winds and solar radiations, yet can maintain vigorous flows thanks to geothermal heating and interfacial temperature gradients controlled by the cavity geometry.  
 
-Coming soon.
+Our group tackles this question by running simulations of subglacial aquatic systems, unravelling their large-scale dynamics while resolving turbulence. Current configurations of interest are inspired from subglacial lakes on Earth, as they are the terrestrial analogues of subglacial aquatic environments on icy moons, hence are accessible such that field explorations will provide in the near future means to challenge our predictions. 
 
 ## Atmospheric Dynamics (Quasi-Biennial Oscillation)
 
