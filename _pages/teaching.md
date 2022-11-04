@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am a full lecturer teaching 192h/year (roughly 6h/week). I teach courses at the graduate level for the Master of Science in Oceans, Atmosphere and Climate Sciences (SOAC) and at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS) at the Université Claude Bernard Lyon 1 (UCBL). I also teach courses at the graduate level for the Batchelor/Master of Science in Physics (SDM) at ENS de Lyon (ENSL). 
+I am a full lecturer teaching 192h/year (roughly 6h/week). I teach courses at the graduate level for the Master of Science in Oceans, Atmosphere and Climate Sciences ([SOAC](https://master-soac.univ-lyon1.fr/icap_website/view/3634)) and at the undergraduate level (L1/L2/L3) for the Physics Batchelor (PB) and the medical training program (Parcours Accés Santé or PASS) at the Université Claude Bernard Lyon 1 (UCBL). I also teach courses at the graduate level for the Batchelor and Master of Science in Physics ([SDM](http://www.ens-lyon.fr/MasterSDM/)) at ENS de Lyon (ENSL). 
 
 CM (cours magistral) means lectures. TD (travaux dirigés) means discussion sections. TP (travaux pratiques) means practical training.
 
