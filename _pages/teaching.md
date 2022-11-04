@@ -10,7 +10,7 @@ CM (cours magistral) means lectures. TD (travaux dirigés) means discussion sect
 
 ## Courses taught 2022-2023
 
-* Atmosphere, Ocean and Ice Interactions CM/TD (M2, SOAC, UCBL, Spring 2023)
+* Atmosphere-Ocean-Ice Interactions CM/TD (M2, SOAC, UCBL, Spring 2023)
 * Computational Projects in Climate Sciences (M1, SOAC, UCBL, Spring 2023)
 * Physics TD (L1, PASS, UCBL, Spring 2023)
 * Fluid Dynamics CM/TD (M1, SDM, ENSL, Fall 2022)
