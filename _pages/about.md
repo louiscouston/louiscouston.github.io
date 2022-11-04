@@ -12,7 +12,7 @@ I am an assistant professor of physical oceanography and physics at the [Univers
 
 Current research interests include: (i) modelling of the ice-shelf--ocean boundary layer, (ii) morphological stability and dynamics of ice-ocean interfaces, (iii) dynamics of subglacial lakes, (iv) dynamics of subglacial water environments on icy moons, (v) wave--mean-flow interactions and (vi) statistical learning methods for reduced-order climate modelling. Visit our Projects webpage to know more about the outstanding Earth Sciences questions we strive to address. 
 
-If you're a student, postdoc or researcher interested in joining or visiting our group, please send me an email at louis.couston ... [AT] ... ens-lyon.fr or stop by my office at M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. Visit the Resources webepage for reccuring funding opportunities. Open positions will be advertised at the bottom of this webpage. 
+If you're a student, postdoc or researcher interested in joining or visiting our group, please send me an email at louis.couston ... [AT] ... ens-lyon.fr or stop by my office at M1 020, ENS de Lyon, 46, allée d’Italie, 69007, Lyon, France. Open positions will be advertised at the bottom of this webpage. You can visit the Resources webepage for reccuring funding opportunities. 
 
 Note that I go by Louis (he/him/his), altough my full first name is Louis-Alexandre.
 
