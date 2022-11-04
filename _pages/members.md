@@ -10,11 +10,11 @@ Current Members
 * Dr. Jason Reneuve (postdoctoral teaching fellow, AGPR, ENSL; *QBO dynamics*)
 * Brivaël Collin (PhD student, ENSL; *Lab experiments of ice melting*; co-supervised with R. Volk and S. Joubaud)
 
-Alumni
+Alumni 
 ------
 Click on the research topic of past student members to see their internship report.  
 * Corentin Prados (spring 2022 M1 student intern, École Normale Supérieure de Lyon; [Dynamics of pressure-driven flows at a corrugated boundary](/files/M1SDM_STAGE_Prados_Corentin.pdf); next: préparation à l 'agrégation at ENSL)
-* Adrien Villaret (spring 2022 M1 student intern, École Polytechnique; *Rotating mixed Rayleigh-Bénard and horizontal convection*; next: MSc Environmental Engineering at UC Berkeley)
+* Adrien Villaret (spring 2022 M1 student intern, École Polytechnique; [Rotating mixed Rayleigh-Bénard and horizontal convection](/files/M13A_STAGE_Villaret_Adrien_compressed.pdf); next: MSc Environmental Engineering at UC Berkeley)
 * Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL; *Dynamics of ice melting in salt water*; next: internship with Julie Deshayes at LOCEAN/IPSL)
 * Joseph Nandaha (spring 2021 M2 student intern, UCBL; [Dynamics of mixed Rayleigh-Bénard and horizontal convection](/files/M2SOAC_STAGE_Nandaha_Joseph.pdf))
 * Clément de la Salle (spring 2021 M2 student intern, ENSL; [Dynamics of subglacial water disks](/files/M2SDM_STAGE_Clement_de_la_Salle.pdf); next: physics teacher at Lycée Colbert, Lyon 8è)
