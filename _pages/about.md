@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/). I lead the Subglacial Hydrodynamics and Ice-Water Interactions (SHIWI) research team at the [Laboratoire de Physique of ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE). 
+I am an assistant professor of physical oceanography and physics at the [Université de Lyon](https://fst-physique.univ-lyon1.fr/) and at the [Laboratoire de Physique of ENS de Lyon](http://www.ens-lyon.fr/PHYSIQUE). I am a physicist with expertise in geophysical fluid dynamics, physical oceanography and ice-ocean interactions. I aim to discover how turbulence (the root cause of many unsolved problems in geophysical and astrophysical fluids), waves, phase changes (ice ablation) and large-scale flows interact and shape the environment we live in. I specialize in the analysis of idealized complex flows in nature primarily using numerical simulations but also laboratory experiments since joining ENS de Lyon. Local collaborators have expertise in turbulence research, laboratory experiments, statistical mechanics and topology and include [Romain Volk](http://perso.ens-lyon.fr/romain.volk/), [Sylvain Joubaud](http://perso.ens-lyon.fr/sylvain.joubaud/), [Antoine Venaille](http://perso.ens-lyon.fr/antoine.venaille/), [Julien Salort](http://perso.ens-lyon.fr/julien.salort/) and [Francesca Chillà](http://perso.ens-lyon.fr/francesca.chilla/).
+
+
 Our goal is to improve forecasts of the melting of polar ice caps and guide the exploration of subsurface lakes and oceans on icy planets and moons in the solar system. To this end, we investigate the hydrodynamics of subglacial water environments and the physics of ice-ocean interactions using high-resolution numerical simulations. We are currently setting up a laboratory experiment of ice melting in salt water (led by collaborators [Romain Volk](http://perso.ens-lyon.fr/romain.volk/) and [Sylvain Joubaud](http://perso.ens-lyon.fr/sylvain.joubaud/)) to complement our computational efforts. 
 
 Physical Systems That Motivate Our Work
