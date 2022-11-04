@@ -22,4 +22,5 @@ CM (cours magistral) means lectures. TD (travaux dirigés) means discussion sect
 * Physics TD (L1, PASS, UCBL, Spring 2021/2022)
 * Fluid Dynamics CM/TD (M1, SDM, ENSL, Fall 2021)
 * Thermodynamics and Heat Transfers I CM/TD/TP (L1, PB, UCBL, Fall 2020)
+* Fluid Dynamics TD (M1, SDM, ENSL, Fall 2020)
 
