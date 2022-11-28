@@ -19,7 +19,7 @@ Our work on subglacial and isolated aquatic environments aims to address the ove
 
 This question is paramount to astrobiology research. Subglacial aquatic environments, which are expected to exist on numerous icy moons (Enceladus, Europa) and possibly beneath Mars' polar ice cap, are the most likely places to have (have had) extraterrestrial life forms in the solar system. Subglacial aquatic environments are very different from open oceans and surface lakes. They are isolated from winds and solar radiations, yet can maintain vigorous flows thanks to geothermal heating and interfacial temperature gradients controlled by the cavity geometry. 
 
-We tackle this question running high-resolution simulations of subglacial aquatic systems that unravel their multi-scale dynamics. Current systems under investigation are inspired by subglacial lakes on Earth, which are the terrestrial analogues of subglacial aquatic environments on icy moons. Terrestrial subglacial lakes are somewhat accessible (more so than icy moons!) such that near-future field explorations (led by collaborators) will provide means to challenge our predictions. 
+We tackle this question using high-resolution simulations of subglacial aquatic systems to unravel their multi-scale dynamics. Current systems under investigation are inspired by subglacial lakes on Earth, which are the terrestrial analogues of subglacial aquatic environments on icy moons. Terrestrial subglacial lakes are somewhat accessible (more so than icy moons!) such that near-future field explorations (led by collaborators) will provide means to challenge our predictions. 
 
 More details on this work will be provided below soon.
 
