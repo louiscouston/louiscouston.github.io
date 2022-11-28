@@ -4,8 +4,10 @@ permalink: /projects/
 author_profile: false
 ---
 
-Our work on high-latitude ocean environments aims to address the overarching questions: 
-**How quickly are ice shelves melting?** 
+###
+
+Our work on high-latitude ocean environments aims to address the overarching questions:  
+**How quickly are ice shelves melting?**  
 **How quickly will ice shelves melt under climate change scenarios?** 
 
 Both questions are tough science questions, which we need to address to increase our confidence in Earth's climate projections. Ice shelf melting impacts the global ocean circulation because it modifies deep water production. It also impacts sea levels as thinner ice shelves typically allow for faster grounded ice discharge into the sea. 
@@ -14,7 +16,9 @@ We tackle multiple bottlenecks and knowledge gaps impairing our ability to addre
 
 You can find more information on this work by visiting the MIMOP webpage. More details will also be provided below soon.
 
-Our work on subglacial and isolated aquatic environments aims to address the overarching question: 
+###
+
+Our work on subglacial and isolated aquatic environments aims to address the overarching question:  
 **Are the physical conditions of extraterrestrial, subglacial, aquatic environments conducive to life?** 
 
 This question is paramount to astrobiology research. Subglacial aquatic environments, which are expected to exist on numerous icy moons (Enceladus, Europa) and possibly beneath Mars' polar ice cap, are the most likely places to have (have had) extraterrestrial life forms in the solar system. Subglacial aquatic environments are very different from open oceans and surface lakes. They are isolated from winds and solar radiations, yet can maintain vigorous flows thanks to geothermal heating and interfacial temperature gradients controlled by the cavity geometry. 
