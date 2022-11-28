@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-###
+## Dynamics of ice-shelf ocean cavities
 
 Our work on high-latitude ocean environments aims to address the overarching questions:  
 **How quickly are ice shelves melting?**  
@@ -16,7 +16,7 @@ We tackle multiple bottlenecks and knowledge gaps impairing our ability to addre
 
 You can find more information on this work by visiting the MIMOP webpage. More details will also be provided below soon.
 
-###
+## Dynamics of subglacial lakes and subsurface water lenses
 
 Our work on subglacial and isolated aquatic environments aims to address the overarching question:  
 **Are the physical conditions of extraterrestrial, subglacial, aquatic environments conducive to life?** 
@@ -27,7 +27,7 @@ We tackle this question using high-resolution simulations of subglacial aquatic 
 
 More details on this work will be provided below soon.
 
-## Subglacial Lake Dynamics
+## Dynamics of subglacial water environments
 
 An outstanding question in astrobiology is:
 **What is the fluid dynamics of extraterrestrial, subglacial, aquatic environments?**
