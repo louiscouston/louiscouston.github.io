@@ -9,6 +9,7 @@ Current Members
 * Dr. Louis-Alexandre Couston (PI, assistant professor, UCBL/ENSL)
 * Dr. Jason Reneuve (postdoctoral teaching fellow, AGPR, ENSL; *Stochastic nature of Quasi-Biennial Oscillation flows*)
 * Brivaël Collin (PhD student, ENSL; *Lab experiments of ice melting in salt water*; co-supervised with R. Volk and S. Joubaud)
+* Alexandre Tlili (graduate student intern, ENSL; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs)
 
 Alumni 
 ------
