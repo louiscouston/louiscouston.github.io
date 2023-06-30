@@ -6,10 +6,11 @@ author_profile: false
 
 Current Members
 ------
-* Dr. Louis-Alexandre Couston (PI, assistant professor, UCBL/ENSL)
+* Dr. Louis-Alexandre Couston (PI, assistant professor, LPENSL/UCBL)
 * Dr. Jason Reneuve (postdoctoral teaching fellow, AGPR, ENSL; *Quasi-Biennial Oscillation dynamics with stochastic forcing*)
 * Brivaël Collin (PhD student, ENSL; *Lab experiments of ice melting in salt water*; co-supervised with R. Volk and S. Joubaud)
-* Alexandre Tlili (graduate student intern, ENSL; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs)
+* Alexandre Tlili (graduate student intern, CNRS; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs)
+* Matthieu Gayous (undergraduate student intern, ENSL; *Stochastic generation of realistic atmospheric gravity waves*; co-supervised with J. Reneuve)
 
 Alumni 
 ------
@@ -23,6 +24,8 @@ Click on the research topic of past student members to see their internship repo
 
 Collaborators
 ------
+* Dr. Romain Volk (associate professor, LPENSL/ENS Lyon)
+* Dr. Sylvain Joubaud (associate professor, LPENSL/ENS Lyon)
 * Dr. Benjamin Favier (CNRS researcher, IRPHE/CNRS)
 * Dr. Michael Le Bars (senior CNRS researcher, IRPHE/CNRS)
 * Prof. Adrian Jenkins (professor, University of Northumbria)
