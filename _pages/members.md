@@ -8,13 +8,17 @@ Current Members
 ------
 * Dr. Louis-Alexandre Couston (PI, assistant professor, LPENSL/UCBL)
 * Dr. Jason Reneuve (postdoctoral teaching fellow, AGPR, ENSL; *Quasi-Biennial Oscillation dynamics with stochastic forcing*)
-* Brivaël Collin (PhD student, ENSL; *Lab experiments of ice melting in salt water*; co-supervised with R. Volk and S. Joubaud)
-* Alexandre Tlili (graduate student intern, CNRS; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs)
-* Matthieu Gayous (undergraduate student intern, ENSL; *Stochastic generation of realistic atmospheric gravity waves*; co-supervised with J. Reneuve)
+* Dr. Chinthaka Jacob (Marie Curie postdoctoral fellow, ENSL; *Ocean incursion and melting near ice-sheet grounding lines via high-resolution large-eddy simulations*)
+* Brivaël Collin (PhD student, ENSL; *Lab experiments of ice melting in salt water*; co-supervised with R. Volk, ENSL and S. Joubaud, ENSL)
+* Louis Saddier (PhD student, ENSL; *Bistable dynamics of ocean flows below ice shelves*; co-supervised with C. Herbert, ENSL and C. Bull, Northumbria)
+* Julie Limonet (M2 student intern, ENSL; *Emulation of subglacial lake dynamics with machine learning*; co-supervised with J. Tachella, ENSL)
+* Komla Amekoe (M2 student intern, ENSL; *Simulations of supraglacial rivers*)
 
 Alumni 
 ------
 Click on the research topic of past student members to see their internship report.  
+* Alexandre Tlili (fall 2023 M1 student intern, École Polytechnique; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs; next: MSc in Fluid Dynamics in Paris)
+* Matthieu Gayous (summer 2023 undergraduate student intern, École Normale Supérieure de Lyon; *Stochastic generation of realistic atmospheric gravity waves*; co-supervised with J. Reneuve; next: MSc in Astrophysics in Strasbourg)
 * Corentin Prados (spring 2022 M1 student intern, École Normale Supérieure de Lyon; [Dynamics of pressure-driven flows at a corrugated boundary](/files/M1SDM_STAGE_Prados_Corentin.pdf); next: préparation à l 'agrégation at ENSL)
 * Adrien Villaret (spring 2022 M1 student intern, École Polytechnique; [Rotating mixed Rayleigh-Bénard and horizontal convection](/files/M13A_STAGE_Villaret_Adrien_compressed.pdf); next: MSc Environmental Engineering at UC Berkeley)
 * Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL; *Numerical simulations of ice melting in salt water*; next: internship with Julie Deshayes at LOCEAN/IPSL)
