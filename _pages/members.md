@@ -18,7 +18,7 @@ Alumni
 ------
 Click on the research topic of past student members to see their internship report.  
 * Alexandre Tlili (fall 2023 M1 student intern, École Polytechnique; *Ocean dynamics near ice-shelf grounding lines*; co-supervised with C. Jacobs; next: MSc in Fluid Dynamics in Paris)
-* Matthieu Gayous (summer 2023 undergraduate student intern, École Normale Supérieure de Lyon; *Stochastic generation of realistic atmospheric gravity waves*; co-supervised with J. Reneuve; next: MSc in Astrophysics in Strasbourg)
+* Matthieu Gayous (summer 2023 undergraduate student intern, École Normale Supérieure de Lyon; [Stochastic generation of realistic atmospheric gravity waves](files/M1SDM_STAGE_Gayous_Matthieu.pdf); co-supervised with J. Reneuve; next: MSc in Astrophysics in Strasbourg)
 * Corentin Prados (spring 2022 M1 student intern, École Normale Supérieure de Lyon; [Dynamics of pressure-driven flows at a corrugated boundary](/files/M1SDM_STAGE_Prados_Corentin.pdf); next: préparation à l 'agrégation at ENSL)
 * Adrien Villaret (spring 2022 M1 student intern, École Polytechnique; [Rotating mixed Rayleigh-Bénard and horizontal convection](/files/M13A_STAGE_Villaret_Adrien_compressed.pdf); next: MSc Environmental Engineering at UC Berkeley)
 * Guillaume Gachon (winter 2021-2022 M2 student intern, ENSL; *Numerical simulations of ice melting in salt water*; next: internship with Julie Deshayes at LOCEAN/IPSL)
